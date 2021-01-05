@@ -9,8 +9,8 @@ import re
 # client_id = "fac9c94efcc04895b83bd73aa53bbbf8"
 # client_secret = "15a3224aa35242cba201e933284aedc5"
 
-client_credentials_manager = SpotifyClientCredentials(client_id="fac9c94efcc04895b83bd73aa53bbbf8",
-                                                      client_secret="15a3224aa35242cba201e933284aedc5")
+client_credentials_manager = SpotifyClientCredentials(client_id="CLIENT_ID_HERE",
+                                                      client_secret="CLIENT_SECRET_HERE")
 sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
 
 
