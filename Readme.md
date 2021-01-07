@@ -1,4 +1,5 @@
 # Spotify Relationship network grabber
+![Ex](https://github.com/kayraucklnc/spotify_bot/blob/master/Media/ZkzziPn.jpg?raw=true)
 
 ## Documentation
 1 - Go to your favourite artist's Spotify page:
